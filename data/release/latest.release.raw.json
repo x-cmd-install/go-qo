@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3596775,
       "digest": "sha256:96c225e26f0c751da8dbf328bb53887fc548c78f10243bd787ca6b9abf0ed933",
-      "download_count": 122,
+      "download_count": 124,
       "created_at": "2026-06-27T02:13:01Z",
       "updated_at": "2026-06-27T02:13:01Z",
       "browser_download_url": "https://github.com/kiki-ki/go-qo/releases/download/v0.4.1/qo_0.4.1_linux_amd64.tar.gz"
