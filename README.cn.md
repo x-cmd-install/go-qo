@@ -4,7 +4,7 @@
 
 qo is an interactive TUI to query JSON and CSV using SQL.
 
-![go-qo](https://repo.x-cmd.io/go-qo.svg)
+![go-qo](https://repo.x-cmd.io/go-qo.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,16 @@ x install go-qo
 - **最新版本**: `v0.4.1` (2026-06-27)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-06-27T02:13:02Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [qo_0.4.1_checksums.txt](https://github.com/kiki-ki/go-qo/releases/download/v0.4.1/qo_0.4.1_checksums.txt) | 378 B | `other` |
+| [qo_0.4.1_darwin_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.4.1/qo_0.4.1_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [qo_0.4.1_darwin_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.4.1/qo_0.4.1_darwin_arm64.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [qo_0.4.1_linux_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.4.1/qo_0.4.1_linux_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [qo_0.4.1_linux_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.4.1/qo_0.4.1_linux_arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
 
 ## 流行度
 
@@ -61,4 +70,4 @@ go-qo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:59:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:06:06Z._
