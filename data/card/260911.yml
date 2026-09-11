@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.1"
   latestRelease: "v0.4.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:53:30Z
+  collectedAt: 2026-09-11T20:15:12Z
 timeline:
   created: 2025-11-25
   lastCommit: 2026-09-05
@@ -35,7 +35,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 3
+    commit: 0
   last60d:
     since: 2026-07-13
     release: 0
@@ -43,7 +43,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 7
+    commit: 0
   last90d:
     since: 2026-06-13
     release: 1
@@ -51,7 +51,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 9
+    commit: 0
   last180d:
     since: 2026-03-15
     release: 2
@@ -59,7 +59,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 23
+    commit: 0
   last360d:
     since: 2025-09-16
     release: 19
@@ -67,7 +67,7 @@ recent:
     openPR: 0
     closedIssue: 3
     openIssue: 5
-    commit: 131
+    commit: 0
   last720d:
     since: 2024-09-21
     release: 19
@@ -85,7 +85,7 @@ total:
   commit: 196
 ---
 path: /home/runner/.x-repo/github.com/kiki-ki/go-qo
-collectedAt: 2026-09-11T04:53:32Z
+collectedAt: 2026-09-11T20:15:15Z
 loc:
   Go:
     code: 3537
