@@ -4,7 +4,7 @@
 
 qo is an interactive TUI to query JSON and CSV using SQL.
 
-![go-qo](https://repo.x-cmd.io/go-qo.svg)
+[![x-cmd/install — go-qo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/go-qo.svg)](https://x-cmd.com/install/go-qo)
 
 ## Install
 
@@ -32,7 +32,7 @@ Total: **5,125** lines of code across **44** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.1` (2026-06-27)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-19
 - **Assets in release**: 5
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **5,125** lines of code across **44** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 63 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 5 · **Commits**: 198
+- **Releases**: 19 · **Merged PRs**: 64 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 5 · **Commits**: 200
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 6 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 1 | 9 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 2 | 21 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 19 | 63 | 0 | 3 | 5 | 0 |
-| last720d | 2024-09-28 | 19 | 63 | 0 | 3 | 5 | 198 |
+| 30d | 2026-08-21 | 0 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-22 | 0 | 7 | 0 | 0 | 0 | 7 |
+| 90d | 2026-06-22 | 1 | 10 | 0 | 0 | 0 | 10 |
+| last180d | 2026-03-24 | 2 | 22 | 0 | 0 | 0 | 24 |
+| 360d | 2025-09-25 | 19 | 64 | 0 | 3 | 5 | 133 |
+| last720d | 2024-09-30 | 19 | 64 | 0 | 3 | 5 | 200 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for go-qo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:54:01Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:02:30Z._
