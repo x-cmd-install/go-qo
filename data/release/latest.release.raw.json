@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3519676,
       "digest": "sha256:a3c693224eaa6c4a3f74ecf9ccc2bf9f636ff8dc8f53814762a921ececa29ff9",
-      "download_count": 88,
+      "download_count": 89,
       "created_at": "2026-06-27T02:13:01Z",
       "updated_at": "2026-06-27T02:13:01Z",
       "browser_download_url": "https://github.com/kiki-ki/go-qo/releases/download/v0.4.1/qo_0.4.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3596775,
       "digest": "sha256:96c225e26f0c751da8dbf328bb53887fc548c78f10243bd787ca6b9abf0ed933",
-      "download_count": 148,
+      "download_count": 150,
       "created_at": "2026-06-27T02:13:01Z",
       "updated_at": "2026-06-27T02:13:01Z",
       "browser_download_url": "https://github.com/kiki-ki/go-qo/releases/download/v0.4.1/qo_0.4.1_linux_amd64.tar.gz"
