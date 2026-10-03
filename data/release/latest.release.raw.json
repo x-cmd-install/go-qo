@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 378,
       "digest": "sha256:aca96f9b4f81d2e32c6153353822a91481265d16fbf7bfd0c8b590388b8bf116",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-22T15:49:42Z",
       "updated_at": "2026-09-22T15:49:42Z",
       "browser_download_url": "https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3613417,
       "digest": "sha256:a96a25d62c34a0476d6077055653e7792788f6d2fb9d923ab851773260ec02ea",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-22T15:49:41Z",
       "updated_at": "2026-09-22T15:49:41Z",
       "browser_download_url": "https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3492936,
       "digest": "sha256:27c8f2538ee40125d99d8e347ad789d5920cc32c493f1b2e1d62c28b946de0b5",
-      "download_count": 57,
+      "download_count": 59,
       "created_at": "2026-09-22T15:49:41Z",
       "updated_at": "2026-09-22T15:49:41Z",
       "browser_download_url": "https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3632450,
       "digest": "sha256:164cbe6c35c3c7ceae7f51584aafdf9b4b1f886dfa52b853e343f6dac9f872f9",
-      "download_count": 50,
+      "download_count": 52,
       "created_at": "2026-09-22T15:49:41Z",
       "updated_at": "2026-09-22T15:49:41Z",
       "browser_download_url": "https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3437754,
       "digest": "sha256:a37acd04290c9bb9836b9bc20af3aee8b41fb17901a8b10a922236ea6e3aa2b0",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-09-22T15:49:41Z",
       "updated_at": "2026-09-22T15:49:41Z",
       "browser_download_url": "https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_linux_arm64.tar.gz"
