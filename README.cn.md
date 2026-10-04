@@ -31,38 +31,38 @@ x install go-qo
 
 ## 发布
 
-- **最新版本**: `v0.5.0` (2026-09-22)
+- **最新版本**: `v0.5.1` (2026-10-03)
 - **最近提交**: 2026-10-03
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 398 · **Fork**: 6 · **开放 issue**: 15 · **贡献者**: 4
+- **Star**: 398 · **Fork**: 7 · **开放 issue**: 15 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 74 · **开放 PR**: 0 · **已关闭 issue**: 10 · **开放 issue**: 5 · **提交数**: 246
+- **发布数**: 21 · **已合并 PR**: 77 · **开放 PR**: 0 · **已关闭 issue**: 11 · **开放 issue**: 4 · **提交数**: 254
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 13 | 0 | 6 | 1 | 24 |
-| last60d | 2026-08-04 | 1 | 16 | 0 | 6 | 1 | 27 |
-| 90d | 2026-07-05 | 1 | 19 | 0 | 6 | 1 | 30 |
-| last180d | 2026-04-06 | 2 | 29 | 0 | 6 | 1 | 40 |
-| 360d | 2025-10-08 | 20 | 74 | 0 | 10 | 5 | 154 |
-| last720d | 2024-10-13 | 20 | 74 | 0 | 10 | 5 | 246 |
+| 30d | 2026-09-04 | 2 | 16 | 0 | 7 | 0 | 27 |
+| last60d | 2026-08-05 | 2 | 19 | 0 | 7 | 0 | 30 |
+| 90d | 2026-07-06 | 2 | 22 | 0 | 7 | 0 | 34 |
+| last180d | 2026-04-07 | 3 | 32 | 0 | 7 | 0 | 42 |
+| 360d | 2025-10-09 | 21 | 77 | 0 | 11 | 4 | 158 |
+| last720d | 2024-10-14 | 21 | 77 | 0 | 11 | 4 | 254 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [qo_0.5.0_checksums.txt](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_checksums.txt) | 378 B | `other` |
-| [qo_0.5.0_darwin_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_darwin_amd64.tar.gz) | 3.4 MiB | `native/darwin/x64` |
-| [qo_0.5.0_darwin_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-| [qo_0.5.0_linux_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_linux_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
-| [qo_0.5.0_linux_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_linux_arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
+| [qo_0.5.1_checksums.txt](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_checksums.txt) | 378 B | `other` |
+| [qo_0.5.1_darwin_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [qo_0.5.1_darwin_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [qo_0.5.1_linux_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_linux_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [qo_0.5.1_linux_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_linux_arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ go-qo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261003.yml` · 2026-10-03T05:26:20Z._
+_数据快照: `data/card/261004.yml` · 2026-10-04T06:06:45Z._

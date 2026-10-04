@@ -31,38 +31,38 @@ Total: **5,703** lines of code across **45** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.0` (2026-09-22)
+- **Latest**: `v0.5.1` (2026-10-03)
 - **Last commit**: 2026-10-03
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 398 · **Forks**: 6 · **Open issues**: 15 · **Contributors**: 4
+- **Stars**: 398 · **Forks**: 7 · **Open issues**: 15 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 5 · **Commits**: 246
+- **Releases**: 21 · **Merged PRs**: 77 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 4 · **Commits**: 254
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 13 | 0 | 6 | 1 | 24 |
-| last60d | 2026-08-04 | 1 | 16 | 0 | 6 | 1 | 27 |
-| 90d | 2026-07-05 | 1 | 19 | 0 | 6 | 1 | 30 |
-| last180d | 2026-04-06 | 2 | 29 | 0 | 6 | 1 | 40 |
-| 360d | 2025-10-08 | 20 | 74 | 0 | 10 | 5 | 154 |
-| last720d | 2024-10-13 | 20 | 74 | 0 | 10 | 5 | 246 |
+| 30d | 2026-09-04 | 2 | 16 | 0 | 7 | 0 | 27 |
+| last60d | 2026-08-05 | 2 | 19 | 0 | 7 | 0 | 30 |
+| 90d | 2026-07-06 | 2 | 22 | 0 | 7 | 0 | 34 |
+| last180d | 2026-04-07 | 3 | 32 | 0 | 7 | 0 | 42 |
+| 360d | 2025-10-09 | 21 | 77 | 0 | 11 | 4 | 158 |
+| last720d | 2024-10-14 | 21 | 77 | 0 | 11 | 4 | 254 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [qo_0.5.0_checksums.txt](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_checksums.txt) | 378 B | `other` |
-| [qo_0.5.0_darwin_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_darwin_amd64.tar.gz) | 3.4 MiB | `native/darwin/x64` |
-| [qo_0.5.0_darwin_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-| [qo_0.5.0_linux_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_linux_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
-| [qo_0.5.0_linux_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.0/qo_0.5.0_linux_arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
+| [qo_0.5.1_checksums.txt](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_checksums.txt) | 378 B | `other` |
+| [qo_0.5.1_darwin_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [qo_0.5.1_darwin_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [qo_0.5.1_linux_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_linux_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [qo_0.5.1_linux_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_linux_arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for go-qo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:26:20Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:06:45Z._
