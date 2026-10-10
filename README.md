@@ -32,7 +32,7 @@ Total: **5,703** lines of code across **45** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.1` (2026-10-03)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-10
 - **Assets in release**: 5
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **5,703** lines of code across **45** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 77 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 4 · **Commits**: 254
+- **Releases**: 21 · **Merged PRs**: 78 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 4 · **Commits**: 256
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 15 | 0 | 7 | 0 | 27 |
-| last60d | 2026-08-09 | 2 | 18 | 0 | 7 | 0 | 30 |
-| 90d | 2026-07-10 | 2 | 22 | 0 | 7 | 0 | 34 |
-| last180d | 2026-04-11 | 3 | 30 | 0 | 7 | 0 | 42 |
-| 360d | 2025-10-13 | 21 | 77 | 0 | 11 | 4 | 158 |
-| last720d | 2024-10-18 | 21 | 77 | 0 | 11 | 4 | 254 |
+| 30d | 2026-09-10 | 2 | 16 | 1 | 7 | 0 | 28 |
+| last60d | 2026-08-11 | 2 | 19 | 1 | 7 | 0 | 31 |
+| 90d | 2026-07-12 | 2 | 23 | 1 | 7 | 0 | 35 |
+| last180d | 2026-04-13 | 3 | 31 | 1 | 7 | 0 | 43 |
+| 360d | 2025-10-15 | 21 | 78 | 1 | 11 | 4 | 159 |
+| last720d | 2024-10-20 | 21 | 78 | 1 | 11 | 4 | 256 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for go-qo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:10:18Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:54:53Z._
