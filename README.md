@@ -14,14 +14,14 @@ x install go-qo
 
 ## Code insight
 
-Total: **5,703** lines of code across **45** files in the top 5 languages.
+Total: **5,705** lines of code across **45** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 4,115 | 254 | 604 | 30 |
 | Json | 1,481 | 0 | 0 | 11 |
 | Sh | 57 | 12 | 14 | 1 |
-| Makefile | 50 | 0 | 16 | 1 |
+| Makefile | 52 | 0 | 16 | 1 |
 | Markdown | 0 | 100 | 51 | 2 |
 
 ## Source
@@ -31,38 +31,38 @@ Total: **5,703** lines of code across **45** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.1` (2026-10-03)
-- **Last commit**: 2026-10-31
+- **Latest**: `v0.5.2` (2026-11-01)
+- **Last commit**: 2026-11-01
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 400 · **Forks**: 7 · **Open issues**: 16 · **Contributors**: 5
+- **Stars**: 400 · **Forks**: 7 · **Open issues**: 17 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 80 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 5 · **Commits**: 260
+- **Releases**: 22 · **Merged PRs**: 84 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 5 · **Commits**: 264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 7 | 1 | 0 | 1 | 8 |
-| last60d | 2026-09-01 | 2 | 19 | 1 | 7 | 1 | 31 |
-| 90d | 2026-08-02 | 2 | 22 | 1 | 7 | 1 | 34 |
-| last180d | 2026-05-04 | 3 | 31 | 1 | 7 | 1 | 43 |
-| 360d | 2025-11-05 | 21 | 80 | 1 | 11 | 5 | 161 |
-| last720d | 2024-11-10 | 21 | 80 | 1 | 11 | 5 | 260 |
+| 30d | 2026-10-02 | 2 | 11 | 1 | 1 | 1 | 7 |
+| last60d | 2026-09-02 | 3 | 23 | 1 | 8 | 1 | 34 |
+| 90d | 2026-08-03 | 3 | 26 | 1 | 8 | 1 | 37 |
+| last180d | 2026-05-05 | 4 | 35 | 1 | 8 | 1 | 46 |
+| 360d | 2025-11-06 | 22 | 84 | 1 | 12 | 5 | 165 |
+| last720d | 2024-11-11 | 22 | 84 | 1 | 12 | 5 | 264 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [qo_0.5.1_checksums.txt](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_checksums.txt) | 378 B | `other` |
-| [qo_0.5.1_darwin_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
-| [qo_0.5.1_darwin_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-| [qo_0.5.1_linux_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_linux_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
-| [qo_0.5.1_linux_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.1/qo_0.5.1_linux_arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
+| [qo_0.5.2_checksums.txt](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_checksums.txt) | 378 B | `other` |
+| [qo_0.5.2_darwin_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_darwin_amd64.tar.gz) | 3.7 MiB | `native/darwin/x64` |
+| [qo_0.5.2_darwin_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_darwin_arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [qo_0.5.2_linux_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
+| [qo_0.5.2_linux_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_linux_arm64.tar.gz) | 3.5 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for go-qo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:37:39Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:12:29Z._
