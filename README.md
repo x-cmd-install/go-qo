@@ -47,12 +47,12 @@ Total: **5,705** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 7 | 1 | 1 | 1 | 7 |
-| last60d | 2026-09-06 | 3 | 22 | 1 | 8 | 1 | 34 |
-| 90d | 2026-08-07 | 3 | 26 | 1 | 8 | 1 | 37 |
-| last180d | 2026-05-09 | 4 | 34 | 1 | 8 | 1 | 46 |
-| 360d | 2025-11-10 | 22 | 84 | 1 | 12 | 5 | 165 |
-| last720d | 2024-11-15 | 22 | 84 | 1 | 12 | 5 | 264 |
+| 30d | 2026-10-07 | 1 | 7 | 1 | 1 | 1 | 7 |
+| last60d | 2026-09-07 | 3 | 22 | 1 | 8 | 1 | 34 |
+| 90d | 2026-08-08 | 3 | 25 | 1 | 8 | 1 | 37 |
+| last180d | 2026-05-10 | 4 | 34 | 1 | 8 | 1 | 46 |
+| 360d | 2025-11-11 | 22 | 84 | 1 | 12 | 5 | 165 |
+| last720d | 2024-11-16 | 22 | 84 | 1 | 12 | 5 | 264 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for go-qo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:46:54Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:39:55Z._
