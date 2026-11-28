@@ -1,0 +1,122 @@
+about:
+  description: "qo is an interactive TUI to query JSON and CSV using SQL."
+  license: MIT
+  homepage: 
+  head: 9906efc
+  archived: false
+  latestVersion: "v0.5.3"
+  latestRelease: "v0.5.3"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:59:44Z
+timeline:
+  created: 2025-11-25
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
+  lastPrerelease: 
+popularity:
+  star: 406
+  watcher: 0
+  fork: 8
+  release: 23
+  contributor: 6
+  pullRequest: 108
+  issue: 18
+language:
+  Go: 132309
+  Shell: 2040
+  Makefile: 1870
+totalBytes: 136219
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 18
+  last60d:
+    since: 2026-09-29
+    release: 3
+    mergedPR: 24
+    openPR: 1
+    closedIssue: 1
+    openIssue: 2
+    commit: 25
+  last90d:
+    since: 2026-08-30
+    release: 4
+    mergedPR: 36
+    openPR: 1
+    closedIssue: 8
+    openIssue: 2
+    commit: 48
+  last180d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 45
+    openPR: 1
+    closedIssue: 8
+    openIssue: 2
+    commit: 57
+  last360d:
+    since: 2025-12-03
+    release: 13
+    mergedPR: 80
+    openPR: 1
+    closedIssue: 10
+    openIssue: 5
+    commit: 107
+  last720d:
+    since: 2024-12-08
+    release: 23
+    mergedPR: 97
+    openPR: 1
+    closedIssue: 12
+    openIssue: 6
+    commit: 277
+total:
+  release: 23
+  mergedPR: 97
+  openPR: 1
+  closedIssue: 12
+  openIssue: 6
+  commit: 277
+---
+path: /home/runner/.x-repo/github.com/kiki-ki/go-qo
+collectedAt: 2026-11-28T07:59:46Z
+loc:
+  Go:
+    code: 4337
+    comments: 267
+    blanks: 632
+    files: 32
+  Json:
+    code: 1481
+    comments: 0
+    blanks: 0
+    files: 11
+  Sh:
+    code: 57
+    comments: 12
+    blanks: 14
+    files: 1
+  Makefile:
+    code: 52
+    comments: 0
+    blanks: 16
+    files: 1
+  Markdown:
+    code: 0
+    comments: 100
+    blanks: 51
+    files: 2
+total:
+  code: 5953
+  comments: 390
+  blanks: 719
+  files: 47
+---
+
+---

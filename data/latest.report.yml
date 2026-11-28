@@ -2,96 +2,96 @@ about:
   description: "qo is an interactive TUI to query JSON and CSV using SQL."
   license: MIT
   homepage: 
-  head: 32b32b1
+  head: 9906efc
   archived: false
-  latestVersion: "v0.5.2"
-  latestRelease: "v0.5.2"
+  latestVersion: "v0.5.3"
+  latestRelease: "v0.5.3"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:38:21Z
+  collectedAt: 2026-11-28T07:59:44Z
 timeline:
   created: 2025-11-25
-  lastCommit: 2026-11-21
-  lastVersion: 2026-11-01
-  lastRelease: 2026-11-01
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
   lastPrerelease: 
 popularity:
   star: 406
   watcher: 0
   fork: 8
-  release: 22
-  contributor: 5
-  pullRequest: 97
-  issue: 17
+  release: 23
+  contributor: 6
+  pullRequest: 108
+  issue: 18
 language:
-  Go: 124180
+  Go: 132309
   Shell: 2040
   Makefile: 1870
-totalBytes: 128090
+totalBytes: 136219
 recent:
   last30d:
-    since: 2026-10-28
-    release: 1
-    mergedPR: 10
-    openPR: 2
-    closedIssue: 1
-    openIssue: 1
-    commit: 0
-  last60d:
-    since: 2026-09-28
+    since: 2026-10-29
     release: 2
-    mergedPR: 16
-    openPR: 3
+    mergedPR: 18
+    openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 0
-  last90d:
-    since: 2026-08-29
+    commit: 18
+  last60d:
+    since: 2026-09-29
     release: 3
-    mergedPR: 28
-    openPR: 3
-    closedIssue: 8
-    openIssue: 1
-    commit: 0
-  last180d:
-    since: 2026-05-31
+    mergedPR: 24
+    openPR: 1
+    closedIssue: 1
+    openIssue: 2
+    commit: 25
+  last90d:
+    since: 2026-08-30
     release: 4
-    mergedPR: 37
-    openPR: 3
+    mergedPR: 36
+    openPR: 1
     closedIssue: 8
-    openIssue: 1
-    commit: 0
+    openIssue: 2
+    commit: 48
+  last180d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 45
+    openPR: 1
+    closedIssue: 8
+    openIssue: 2
+    commit: 57
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 13
-    mergedPR: 75
-    openPR: 3
-    closedIssue: 12
+    mergedPR: 80
+    openPR: 1
+    closedIssue: 10
     openIssue: 5
-    commit: 0
+    commit: 107
   last720d:
-    since: 2024-12-07
-    release: 22
-    mergedPR: 89
-    openPR: 3
+    since: 2024-12-08
+    release: 23
+    mergedPR: 97
+    openPR: 1
     closedIssue: 12
-    openIssue: 5
-    commit: 269
+    openIssue: 6
+    commit: 277
 total:
-  release: 22
-  mergedPR: 89
-  openPR: 3
+  release: 23
+  mergedPR: 97
+  openPR: 1
   closedIssue: 12
-  openIssue: 5
-  commit: 269
+  openIssue: 6
+  commit: 277
 ---
 path: /home/runner/.x-repo/github.com/kiki-ki/go-qo
-collectedAt: 2026-11-27T08:38:22Z
+collectedAt: 2026-11-28T07:59:46Z
 loc:
   Go:
-    code: 4115
-    comments: 254
-    blanks: 604
-    files: 30
+    code: 4337
+    comments: 267
+    blanks: 632
+    files: 32
   Json:
     code: 1481
     comments: 0
@@ -113,11 +113,11 @@ loc:
     blanks: 51
     files: 2
 total:
-  code: 5731
-  comments: 377
-  blanks: 691
-  files: 45
+  code: 5953
+  comments: 390
+  blanks: 719
+  files: 47
 ---
 
 ---
-{"id":430329619,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQcx6484Zpk8T","tag_name":"v0.5.2","target_commitish":"main","name":"v0.5.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-01T02:56:13Z","updated_at":"2026-11-01T03:01:40Z","published_at":"2026-11-01T03:01:40Z","assets":[{"id":697161768,"node_id":"RA_kwDOQcx6484pjdgo","name":"qo_0.5.2_checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":378,"digest":"sha256:62bfab491e84367b527ff97e76bebb4455db635fca31be082d77f39b22334784","download_count":7,"created_at":"2026-11-01T03:01:39Z","updated_at":"2026-11-01T03:01:39Z"},{"id":697161739,"node_id":"RA_kwDOQcx6484pjdgL","name":"qo_0.5.2_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3856879,"digest":"sha256:3d2ee4ccf5cf284bf03e7ce09353b8064e484a63208c529f5a5cb7614b64de51","download_count":11,"created_at":"2026-11-01T03:01:38Z","updated_at":"2026-11-01T03:01:39Z"},{"id":697161736,"node_id":"RA_kwDOQcx6484pjdgI","name":"qo_0.5.2_darwin_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3711337,"digest":"sha256:29c342419cb1345bf661e2e15dc670da7bceb0624031d08ce143859abceb4c19","download_count":45,"created_at":"2026-11-01T03:01:38Z","updated_at":"2026-11-01T03:01:39Z"},{"id":697161734,"node_id":"RA_kwDOQcx6484pjdgG","name":"qo_0.5.2_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3909868,"digest":"sha256:70b0e5746edac7d9af16f6f800e229392fc392b09db8b53a9a7827f3b2df0d1f","download_count":84,"created_at":"2026-11-01T03:01:38Z","updated_at":"2026-11-01T03:01:39Z"},{"id":697161740,"node_id":"RA_kwDOQcx6484pjdgM","name":"qo_0.5.2_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3679658,"digest":"sha256:405d00e52773d53f0d103cc5ae310741c0250c98a87bd1ab0b50b95d5b60a584","download_count":15,"created_at":"2026-11-01T03:01:38Z","updated_at":"2026-11-01T03:01:39Z"}],"body":"<!-- Release notes generated using configuration in .github/release.yml at v0.5.2 -->\n\n## What's Changed\n### Features\n* ci: attest build provenance for release archives by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/95\n* ci: pin GitHub Actions to commit SHAs by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/96\n### Bug Fixes\n* fix(release): use install_steps for the Homebrew cask postflight hook by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/104\n### Other Changes\n* chore(deps): bump github.com/tidwall/gjson from 1.19.0 to 1.20.0 in the minor-patch group by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/98\n* chore(deps): bump goreleaser/goreleaser-action from 7.2.3 to 7.3.0 in the minor-patch group by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/100\n* chore(deps): bump modernc.org/sqlite from 1.60.1 to 1.61.0 in the minor-patch group by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/102\n* ci(dependabot): auto-merge with squash by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/105\n\n\n**Full Changelog**: https://github.com/kiki-ki/go-qo/compare/v0.5.1...v0.5.2\n\n","mentions_count":2}
+{"id":461361210,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQcx6484bf9A6","tag_name":"v0.5.3","target_commitish":"main","name":"v0.5.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-28T06:38:30Z","updated_at":"2026-11-28T06:44:11Z","published_at":"2026-11-28T06:44:11Z","assets":[{"id":803556740,"node_id":"RA_kwDOQcx6484v5U2E","name":"qo_0.5.3_checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":378,"digest":"sha256:554a7922411791aaba9cf8f87243fdcabcb7b705e067afe2f5f0045b0e41a088","download_count":1,"created_at":"2026-11-28T06:44:10Z","updated_at":"2026-11-28T06:44:10Z"},{"id":803556716,"node_id":"RA_kwDOQcx6484v5U1s","name":"qo_0.5.3_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":4213306,"digest":"sha256:19bd745473ffba9b6185433b1486337fcf58b938d3bab7b058597e1435fb0841","download_count":1,"created_at":"2026-11-28T06:44:09Z","updated_at":"2026-11-28T06:44:09Z"},{"id":803556714,"node_id":"RA_kwDOQcx6484v5U1q","name":"qo_0.5.3_darwin_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3961559,"digest":"sha256:82d0ead267cd97cde35437b40cc5ed1774e3d22b0937663e89191a883391b35f","download_count":1,"created_at":"2026-11-28T06:44:09Z","updated_at":"2026-11-28T06:44:09Z"},{"id":803556715,"node_id":"RA_kwDOQcx6484v5U1r","name":"qo_0.5.3_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":4247071,"digest":"sha256:ca033e42fa362649c86355311abd537eed9790f94e5fb762cebc29a1343dcd0e","download_count":1,"created_at":"2026-11-28T06:44:09Z","updated_at":"2026-11-28T06:44:09Z"},{"id":803556711,"node_id":"RA_kwDOQcx6484v5U1n","name":"qo_0.5.3_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3906353,"digest":"sha256:37c409beb44203c374ce2d0ef49323bf86e9f497a40772963ca0de60c1bf9ed5","download_count":1,"created_at":"2026-11-28T06:44:09Z","updated_at":"2026-11-28T06:44:09Z"}],"body":"<!-- Release notes generated using configuration in .github/release.yml at v0.5.3 -->\n\n## What's Changed\n### Bug Fixes\n* Escape SQLite identifiers by @draarivpatel-ui in https://github.com/kiki-ki/go-qo/pull/114\n* fix(db): rename duplicate column names instead of failing CREATE TABLE by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/116\n### Dependencies\n* build(tools): manage tools in a separate module updated by Dependabot by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/106\n* chore(deps): bump golang.org/x/vuln from 1.1.4 to 1.9.0 in /tools in the tools group by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/107\n* chore(deps): bump modernc.org/sqlite from 1.61.0 to 1.61.1 in the minor-patch group by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/108\n* chore(deps): bump the minor-patch group with 2 updates by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/109\n* chore(deps): bump github.com/goreleaser/goreleaser/v2 from 2.19.0 to 2.20.1 in /tools in the tools group by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/110\n* chore(deps): bump github.com/tidwall/gjson from 1.20.2 to 1.20.4 in the minor-patch group by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/112\n* chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0 in the minor-patch group by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/111\n* chore(deps): bump the minor-patch group with 2 updates by @dependabot[bot] in https://github.com/kiki-ki/go-qo/pull/115\n* chore(deps): migrate bubbletea, bubbles and lipgloss to v2 by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/125\n### Other Changes\n* ci: replace Dependabot with Renovate by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/117\n* ci: let Renovate bump the go directive by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/122\n* chore(deps): update all non-major dependencies by @renovate[bot] in https://github.com/kiki-ki/go-qo/pull/119\n* ci: group dependency updates in release notes by @kiki-ki in https://github.com/kiki-ki/go-qo/pull/126\n\n## New Contributors\n* @draarivpatel-ui made their first contribution in https://github.com/kiki-ki/go-qo/pull/114\n* @renovate[bot] made their first contribution in https://github.com/kiki-ki/go-qo/pull/119\n\n**Full Changelog**: https://github.com/kiki-ki/go-qo/compare/v0.5.2...v0.5.3\n\n","mentions_count":4}
