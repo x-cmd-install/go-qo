@@ -14,11 +14,11 @@ x install go-qo
 
 ## Code insight
 
-Total: **5,705** lines of code across **45** files in the top 5 languages.
+Total: **5,927** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 4,115 | 254 | 604 | 30 |
+| Go | 4,337 | 267 | 632 | 32 |
 | Json | 1,481 | 0 | 0 | 11 |
 | Sh | 57 | 12 | 14 | 1 |
 | Makefile | 52 | 0 | 16 | 1 |
@@ -31,38 +31,38 @@ Total: **5,705** lines of code across **45** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.2` (2026-11-01)
-- **Last commit**: 2026-11-21
+- **Latest**: `v0.5.3` (2026-11-28)
+- **Last commit**: 2026-11-28
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 406 · **Forks**: 8 · **Open issues**: 17 · **Contributors**: 5
+- **Stars**: 406 · **Forks**: 8 · **Open issues**: 18 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 89 · **Open PRs**: 3 · **Closed issues**: 12 · **Open issues**: 5 · **Commits**: 269
+- **Releases**: 23 · **Merged PRs**: 97 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 6 · **Commits**: 277
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 10 | 2 | 1 | 1 | 0 |
-| last60d | 2026-09-28 | 2 | 16 | 3 | 1 | 1 | 0 |
-| 90d | 2026-08-29 | 3 | 28 | 3 | 8 | 1 | 0 |
-| last180d | 2026-05-31 | 4 | 37 | 3 | 8 | 1 | 0 |
-| 360d | 2025-12-02 | 13 | 75 | 3 | 12 | 5 | 0 |
-| last720d | 2024-12-07 | 22 | 89 | 3 | 12 | 5 | 269 |
+| 30d | 2026-10-29 | 2 | 18 | 0 | 1 | 1 | 18 |
+| last60d | 2026-09-29 | 3 | 24 | 1 | 1 | 2 | 25 |
+| 90d | 2026-08-30 | 4 | 36 | 1 | 8 | 2 | 48 |
+| last180d | 2026-06-01 | 5 | 45 | 1 | 8 | 2 | 57 |
+| 360d | 2025-12-03 | 13 | 80 | 1 | 10 | 5 | 107 |
+| last720d | 2024-12-08 | 23 | 97 | 1 | 12 | 6 | 277 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [qo_0.5.2_checksums.txt](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_checksums.txt) | 378 B | `other` |
-| [qo_0.5.2_darwin_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_darwin_amd64.tar.gz) | 3.7 MiB | `native/darwin/x64` |
-| [qo_0.5.2_darwin_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_darwin_arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
-| [qo_0.5.2_linux_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
-| [qo_0.5.2_linux_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.2/qo_0.5.2_linux_arm64.tar.gz) | 3.5 MiB | `native/linux/arm64` |
+| [qo_0.5.3_checksums.txt](https://github.com/kiki-ki/go-qo/releases/download/v0.5.3/qo_0.5.3_checksums.txt) | 378 B | `other` |
+| [qo_0.5.3_darwin_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.3/qo_0.5.3_darwin_amd64.tar.gz) | 4.0 MiB | `native/darwin/x64` |
+| [qo_0.5.3_darwin_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.3/qo_0.5.3_darwin_arm64.tar.gz) | 3.8 MiB | `native/darwin/arm64` |
+| [qo_0.5.3_linux_amd64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.3/qo_0.5.3_linux_amd64.tar.gz) | 4.1 MiB | `native/linux/x64` |
+| [qo_0.5.3_linux_arm64.tar.gz](https://github.com/kiki-ki/go-qo/releases/download/v0.5.3/qo_0.5.3_linux_arm64.tar.gz) | 3.7 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for go-qo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:38:29Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:59:54Z._
